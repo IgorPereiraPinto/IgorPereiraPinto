@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Igor! 👋
 
-Olá, sou um analista de dados apaixonado por encontrar insights valiosos a partir de grandes conjuntos de dados. Estou em busca de oportunidades para aplicar minhas habilidades em um ambiente de trabalho.
+Sou um analista de dados apaixonado por encontrar insights valiosos a partir de grandes conjuntos de dados. Estou em busca de oportunidades para aplicar minhas habilidades em um ambiente de trabalho.
 
 Durante meus estudos, desenvolvi habilidades em Python e SQL e aprendi a trabalhar com ferramentas de visualização de dados como Power BI. Também tenho experiência em coleta e limpeza de dados, e gosto de explorar novas técnicas de modelagem estatística.
 
