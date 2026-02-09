@@ -41,8 +41,8 @@ Sou Analista de Dados/BI Sênior com foco em transformar dados complexos em **in
 ---
 
 ## 📬 Contato
-- LinkedIn: <LINK_AQUI>
-- E-mail: <SEU_EMAIL_AQUI>
+- LinkedIn: <https://www.linkedin.com/in/igorpereirapinto/>
+- E-mail: <letrasigor@yahoo.com.br>
 
 
 
