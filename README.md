@@ -11,19 +11,19 @@ Sou Analista de Dados/BI Sênior com foco em transformar dados complexos em **in
 ### 1) KPIs de Vendas — SQL Server (ETL/ELT + Analytics)
 **O que é:** pipeline Raw → Staging → DW → Marts + análises por produto/categoria  
 **Entrega:** documentação completa + checks de qualidade + queries para tomada de decisão  
-🔗 Repo: <LINK_AQUI>
+🔗 Repo: <https://github.com/IgorPereiraPinto/KPIs_Vendas_SQL>
 
 ### 2) KPIs de Vendas — Power BI (SQL Server + DAX)
 **O que é:** dados do SQL Server e KPIs calculados em DAX, com insights a partir do dashboard  
 **Entrega:** catálogo de medidas DAX + documentação + apresentação executiva (PPT)  
-🔗 Repo: <LINK_AQUI>  
-🔗 Dashboard: <INSERIR_LINK_DO_DASHBOARD>
+🔗 Repo: <https://github.com/IgorPereiraPinto/KPIs_Vendas_PowerBi>  
+🔗 Dashboard: <>
 
 ### 3) Automação de indicadores macro (API Banco Central → Excel)
 **O que é:** script Python que extrai séries (câmbio, etc.) e atualiza planilha automaticamente  
-🔗 Repo: <LINK_AQUI>
+🔗 Repo: <https://github.com/IgorPereiraPinto/bcb-api-excel-automation>
 
-> Quer mais? Veja a lista completa em: <LINK_PARA_REPOSITORIOS_OU_PORTFOLIO>
+> Quer mais? Veja a lista completa em: <https://github.com/IgorPereiraPinto?tab=repositories>
 
 ---
 
