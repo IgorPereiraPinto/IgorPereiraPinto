@@ -17,7 +17,7 @@ Sou Analista de Dados/BI Sênior com foco em transformar dados complexos em **in
 **O que é:** dados do SQL Server e KPIs calculados em DAX, com insights a partir do dashboard  
 **Entrega:** catálogo de medidas DAX + documentação + apresentação executiva (PPT)  
 🔗 Repo: <https://github.com/IgorPereiraPinto/KPIs_Vendas_PowerBi>  
-🔗 Dashboard: <iframe title="KPIs_Vendas" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTQxZmIzNjYtZmM5NC00OTA2LTkxMGUtNGNhNWZhYzlhODZjIiwidCI6ImEyZGZjMjU0LWIyY2MtNDFkNC05ODBmLTg2OTgxNmYxZjkzZCIsImMiOjN9>
+🔗 Dashboard: <https://app.powerbi.com/view?r=eyJrIjoiYTQxZmIzNjYtZmM5NC00OTA2LTkxMGUtNGNhNWZhYzlhODZjIiwidCI6ImEyZGZjMjU0LWIyY2MtNDFkNC05ODBmLTg2OTgxNmYxZjkzZCIsImMiOjN9>
 
 ### 3) Automação de indicadores macro (API Banco Central → Excel)
 **O que é:** script Python que extrai séries (câmbio, etc.) e atualiza planilha automaticamente  
