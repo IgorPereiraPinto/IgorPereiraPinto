@@ -1,6 +1,7 @@
-# Igor Pereira — Data Analytics & BI (São Paulo)
+# Igor Pereira — Analista de Dados/BI | Planejamento Comercial
 
-Sou Analista de Dados/BI Sênior com foco em transformar dados complexos em **insights claros e acionáveis**, principalmente para **performance comercial** (vendas, metas, comissionamento, pricing e eficiência).
+Sou Analista de Dados/BI Sênior com foco em transformar dados complexos em **insights claros e acionáveis**, principalmente para **performance comercial** (vendas, metas, comissionamento, pricing e eficiência).  
+Minha vivência anterior como Supervisor Sênior de operações me deu uma leitura de negócio que vai além do técnico — sei traduzir a necessidade da área comercial em métricas e dashboards que geram ação.
 
 **Stack:** Power BI (DAX/modelagem) • SQL Server • Excel avançado • Python (Pandas/NumPy) • AWS/Azure/Microsoft Fabric
 
@@ -19,11 +20,7 @@ Sou Analista de Dados/BI Sênior com foco em transformar dados complexos em **in
 **Entrega:** documentação completa + checks de qualidade + queries para tomada de decisão  
 🔗 Repo: <https://github.com/IgorPereiraPinto/KPIs_Vendas_SQL>
 
-### 3) Automação de indicadores macro (API Banco Central → Excel)
-**O que é:** script Python que extrai séries (câmbio, etc.) e atualiza planilha automaticamente  
-🔗 Repo: <https://github.com/IgorPereiraPinto/bcb-api-excel-automation>
-
-### 4) Deep Dive Analyses — Python + SQL Server (Análises Avançadas de Vendas)
+### 3) Deep Dive Analyses — Python + SQL Server (Análises Avançadas de Vendas)
 **O que é:** conjunto de 4 análises aprofundadas em Python (Pandas/NumPy) com integração ao SQL Server, cada uma partindo de uma pergunta real de negócio. A documentação foi escrita em português, pensada para ser útil tanto para perfis técnicos quanto para quem toma decisão.  
 **Análises incluídas:**  
 - **Análise de Safra (Cohort)** — analisa o ciclo de vida dos clientes e retenção: a partir da data do primeiro faturamento, quantos permanecem ativos, quantos se tornaram inativos por ano e qual o tempo médio de ativação do cliente  
@@ -34,19 +31,25 @@ Sou Analista de Dados/BI Sênior com foco em transformar dados complexos em **in
 **Entrega:** notebooks comentados + visualizações + insights de negócio + documentação didática  
 🔗 Repo: <https://github.com/IgorPereiraPinto/deep-dive-analyses>
 
+### 4) Automação de indicadores macro (API Banco Central → Excel)
+**O que é:** script Python que extrai séries (câmbio, etc.) e atualiza planilha automaticamente  
+🔗 Repo: <https://github.com/IgorPereiraPinto/bcb-api-excel-automation>
+
 > Quer mais? Veja a lista completa em: <https://github.com/IgorPereiraPinto?tab=repositories>
 
 ---
 
 ## ✅ O que eu entrego no dia a dia
-- Definição e governança de KPIs (regras, dicionário, qualidade)
-- Dashboards e storytelling executivo (Power BI)
-- Análises descritivas/diagnósticas e exploração (SQL/Python)
-- Automação de rotinas e integrações (Python + Excel/SQL/APIs)
+- Definição e governança de KPIs — regras de negócio, dicionário de dados e validação de qualidade  
+- Dashboards com storytelling executivo — Power BI com RLS dinâmico, atualização automática e alertas  
+- Análises descritivas e diagnósticas — SQL e Python para responder "o que aconteceu" e "por que aconteceu"  
+- Automação de rotinas — Python integrado com Excel, SQL Server e APIs para eliminar retrabalho manual  
 
 ---
 
-## 🧭 Meu método de análise (bem direto)
+## 🧭 Meu método de análise
+Toda análise começa com uma pergunta de negócio, não com uma tabela de dados.
+
 **Pergunta de negócio → KPI → Dados confiáveis → Teste/segmentação → Insight → Recomendação/Ação**
 
 ---
