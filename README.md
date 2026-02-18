@@ -29,7 +29,7 @@ Minha vivência anterior como Supervisor Sênior de operações me deu uma leitu
 - **Indicadores de Vendas Mensal (Realizado vs Meta)** — acompanhamento estruturado de performance com desdobramento de causa raiz: onde exatamente o resultado ficou abaixo ou acima do esperado, decomposto por canal, regional e produto  
 
 **Entrega:** notebooks comentados + visualizações + insights de negócio + documentação didática  
-🔗 Repo: <https://github.com/IgorPereiraPinto/deep-dive-analyses>
+🔗 Repo: <https://github.com/IgorPereiraPinto/deep-dive-analyses_v2>
 
 ### 4) Automação de indicadores macro (API Banco Central → Excel)
 **O que é:** script Python que extrai séries (câmbio, etc.) e atualiza planilha automaticamente  
