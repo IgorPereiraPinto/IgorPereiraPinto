@@ -1,63 +1,69 @@
-# Igor Pereira — Analista de Dados/BI | Planejamento Comercial
+# Igor Pereira — Senior Data/BI Analyst
 
-Sou Analista de Dados/BI Sênior com foco em transformar dados complexos em **insights claros e acionáveis**, principalmente para **performance comercial** (vendas, metas, comissionamento, pricing e eficiência).  
-Minha vivência anterior como Supervisor Sênior de operações me deu uma leitura de negócio que vai além do técnico — sei traduzir a necessidade da área comercial em métricas e dashboards que geram ação.
+**Transformo dados comerciais em decisões.** 10+ anos atuando na interseção entre dados e negócio — de operações (BPO) a planejamento comercial (vendas, metas, comissionamento, pricing).
 
-**Stack:** Power BI (DAX/modelagem) • SQL Server • Excel avançado • Python (Pandas/NumPy) • AWS/Azure/Microsoft Fabric
+O que me diferencia: não entrego só dashboard, entrego o diagnóstico. Sei perguntar "por que o resultado caiu?" antes de abrir qualquer ferramenta.
 
----
-
-## ⭐ Projetos em destaque (recentes)
-
-### 1) KPIs de Vendas — Power BI (SQL Server + DAX)
-**O que é:** dados do SQL Server e KPIs calculados em DAX, com insights a partir do dashboard  
-**Entrega:** catálogo de medidas DAX + documentação + apresentação executiva (PPT)  
-🔗 Repo: <https://github.com/IgorPereiraPinto/KPIs_Vendas_PowerBi>  
-🔗 Dashboard: <https://app.powerbi.com/view?r=eyJrIjoiYTQxZmIzNjYtZmM5NC00OTA2LTkxMGUtNGNhNWZhYzlhODZjIiwidCI6ImEyZGZjMjU0LWIyY2MtNDFkNC05ODBmLTg2OTgxNmYxZjkzZCIsImMiOjN9>
-
-### 2) KPIs de Vendas — SQL Server (ETL/ELT + Analytics)
-**O que é:** pipeline Raw → Staging → DW → Marts + análises por produto/categoria  
-**Entrega:** documentação completa + checks de qualidade + queries para tomada de decisão  
-🔗 Repo: <https://github.com/IgorPereiraPinto/KPIs_Vendas_SQL>
-
-### 3) Deep Dive Analyses — Python + SQL Server (Análises Avançadas de Vendas)
-**O que é:** conjunto de 4 análises aprofundadas em Python (Pandas/NumPy) com integração ao SQL Server, cada uma partindo de uma pergunta real de negócio. A documentação foi escrita em português, pensada para ser útil tanto para perfis técnicos quanto para quem toma decisão.  
-**Análises incluídas:**  
-- **Análise de Safra (Cohort)** — analisa o ciclo de vida dos clientes e retenção: a partir da data do primeiro faturamento, quantos permanecem ativos, quantos se tornaram inativos por ano e qual o tempo médio de ativação do cliente  
-- **Análise de Pareto (Curva ABC)** — classifica os clientes por faturamento para identificar oportunidades de upsell (aumentar o ticket dos clientes que já compram) e cross-sell (oferecer novos produtos para quem consome apenas uma categoria), além de mapear a concentração de receita e o risco de depender de poucos clientes  
-- **Análise Ad Hoc** — investigação sob demanda para responder perguntas específicas que surgem no dia a dia e não cabem em um dashboard fixo (ex: "quais produtos tiveram a maior queda de vendas entre o 3º e o 4º trimestre?" ou "existe correlação entre o nível de desconto concedido e a recompra do cliente?")  
-- **Indicadores de Vendas Mensal (Realizado vs Meta)** — acompanhamento estruturado de performance com desdobramento de causa raiz: onde exatamente o resultado ficou abaixo ou acima do esperado, decomposto por canal, regional e produto  
-
-**Entrega:** notebooks comentados + visualizações + insights de negócio + documentação didática  
-🔗 Repo: <https://github.com/IgorPereiraPinto/deep-dive-analyses_v2>
-
-### 4) Automação de indicadores macro (API Banco Central → Excel)
-**O que é:** script Python que extrai séries (câmbio, etc.) e atualiza planilha automaticamente  
-🔗 Repo: <https://github.com/IgorPereiraPinto/bcb-api-excel-automation>
-
-> Quer mais? Veja a lista completa em: <https://github.com/IgorPereiraPinto?tab=repositories>
+📫 [LinkedIn](https://www.linkedin.com/in/igorpereirapinto/) · [E-mail](mailto:letrasigor@yahoo.com.br) · [Portfólio](https://sites.google.com/view/portfolio-de-projetos/home)
 
 ---
 
-## ✅ O que eu entrego no dia a dia
-- Definição e governança de KPIs — regras de negócio, dicionário de dados e validação de qualidade  
-- Dashboards com storytelling executivo — Power BI com RLS dinâmico, atualização automática e alertas  
-- Análises descritivas e diagnósticas — SQL e Python para responder "o que aconteceu" e "por que aconteceu"  
-- Automação de rotinas — Python integrado com Excel, SQL Server e APIs para eliminar retrabalho manual  
+## Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ---
 
-## 🧭 Meu método de análise
+## Projetos em Destaque
+
+### 📊 KPIs de Vendas — Power BI (SQL Server + DAX)
+Dashboard com KPIs calculados em DAX a partir de dados do SQL Server, com RLS dinâmico e documentação executiva.
+[Repositório](https://github.com/IgorPereiraPinto/KPIs_Vendas_PowerBi) · [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiYTQxZmIzNjYtZmM5NC00OTA2LTkxMGUtNGNhNWZhYzlhODZjIiwidCI6ImEyZGZjMjU0LWIyY2MtNDFkNC05ODBmLTg2OTgxNmYxZjkzZCIsImMiOjN9)
+
+### 🗄️ KPIs de Vendas — SQL Server (Pipeline ETL/ELT)
+Pipeline completo Raw → Staging → DW → Marts com checks de qualidade e queries analíticas.
+[Repositório](https://github.com/IgorPereiraPinto/KPIs_Vendas_SQL)
+
+### 🔬 Deep Dive Analyses — Python + SQL Server
+4 análises avançadas que vão além do dashboard: **Coorte** (retenção), **Pareto ABC** (concentração de receita), **Ad Hoc** (exploratória) e **Real vs Forecast** (causa raiz). Cada uma parte de uma pergunta de negócio e entrega diagnóstico com ação.
+[Repositório](https://github.com/IgorPereiraPinto/deep-dive-analyses_v2)
+
+### ⚙️ Automação de Indicadores Macro (API → Excel)
+Script Python que extrai séries do Banco Central (câmbio, IPCA) e atualiza planilha automaticamente.
+[Repositório](https://github.com/IgorPereiraPinto/bcb-api-excel-automation)
+
+> **Todos os repositórios:** [github.com/IgorPereiraPinto](https://github.com/IgorPereiraPinto?tab=repositories)
+
+---
+
+## Meu Método
+
 Toda análise começa com uma pergunta de negócio, não com uma tabela de dados.
+```
+Pergunta de negócio → KPI → Dados confiáveis → Teste/segmentação → Insight → Ação
+```
 
-**Pergunta de negócio → KPI → Dados confiáveis → Teste/segmentação → Insight → Recomendação/Ação**
+Não entrego relatório. Entrego resposta.
 
 ---
 
-## 📬 Contato
-- LinkedIn: <https://www.linkedin.com/in/igorpereirapinto/>
-- E-mail: <letrasigor@yahoo.com.br>
+## Experiência Recente
 
+**Analista Sênior de Planejamento de Vendas** — Pluxee Brasil (ex-Sodexo)
+- Power BI com RLS dinâmico + refresh automatizado via Power Automate + Gateway
+- Alertas automáticos por e-mail quando indicadores críticos desviam da meta
+- Análises em SQL Server e Python para comissionamento, pricing e metas regionais
 
+**Supervisor Sênior de Operações** — Teleperformance (conta Nubank)
+- Gestão de equipes de até 40 pessoas
+- Foco em indicadores de produtividade, qualidade e SLA
 
-
+> A vivência em operações me deu algo que muitos analistas não têm: saber qual número importa para quem toma decisão — e como comunicar isso sem jargão técnico.
