@@ -19,13 +19,14 @@ O que me diferencia: não entrego só dashboard, entrego o diagnóstico. Sei per
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
 ## Projetos em Destaque
 
 ### 📊 KPIs de Vendas — Power BI (SQL Server + DAX)
-Dashboard com KPIs calculados em DAX a partir de dados do SQL Server, com RLS dinâmico e documentação executiva.
+Dashboard com KPIs calculados em DAX a partir de dados do SQL Server, com RLS dinâmico por regional/gerência e documentação executiva.
 [Repositório](https://github.com/IgorPereiraPinto/KPIs_Vendas_PowerBi) · [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiYTQxZmIzNjYtZmM5NC00OTA2LTkxMGUtNGNhNWZhYzlhODZjIiwidCI6ImEyZGZjMjU0LWIyY2MtNDFkNC05ODBmLTg2OTgxNmYxZjkzZCIsImMiOjN9)
 
 ### 🗄️ KPIs de Vendas — SQL Server (Pipeline ETL/ELT)
@@ -33,11 +34,11 @@ Pipeline completo Raw → Staging → DW → Marts com checks de qualidade e que
 [Repositório](https://github.com/IgorPereiraPinto/KPIs_Vendas_SQL)
 
 ### 🔬 Deep Dive Analyses — Python + SQL Server
-4 análises avançadas que vão além do dashboard: **Coorte** (retenção), **Pareto ABC** (concentração de receita), **Ad Hoc** (exploratória) e **Real vs Forecast** (causa raiz). Cada uma parte de uma pergunta de negócio e entrega diagnóstico com ação.
+4 análises avançadas que vão além do dashboard: **Coorte** (retenção por safra), **Pareto ABC** (concentração de receita), **Ad Hoc** (exploratória com correlação) e **Real vs Forecast** (decomposição de causa raiz em volume/preço). Cada uma parte de uma pergunta de negócio e entrega diagnóstico com ação.
 [Repositório](https://github.com/IgorPereiraPinto/deep-dive-analyses_v2)
 
-### ⚙️ Automação de Indicadores Macro (API → Excel)
-Script Python que extrai séries do Banco Central (câmbio, IPCA) e atualiza planilha automaticamente.
+### ⚙️ Automação de Indicadores Macro — API Banco Central → Excel
+Script Python que coleta séries da API SGS do Banco Central (dólar, euro, Selic, IPCA), trata duplicidades e atualiza planilha automaticamente com agendamento diário.
 [Repositório](https://github.com/IgorPereiraPinto/bcb-api-excel-automation)
 
 > **Todos os repositórios:** [github.com/IgorPereiraPinto](https://github.com/IgorPereiraPinto?tab=repositories)
@@ -55,15 +56,13 @@ Não entrego relatório. Entrego resposta.
 
 ---
 
-## Experiência Recente
+## Trajetória Profissional
 
-**Analista Sênior de Planejamento de Vendas** — Pluxee Brasil (ex-Sodexo)
-- Power BI com RLS dinâmico + refresh automatizado via Power Automate + Gateway
-- Alertas automáticos por e-mail quando indicadores críticos desviam da meta
-- Análises em SQL Server e Python para comissionamento, pricing e metas regionais
-
-**Supervisor Sênior de Operações** — Teleperformance (conta Nubank)
-- Gestão de equipes de até 40 pessoas
-- Foco em indicadores de produtividade, qualidade e SLA
+| Período | Cargo | Empresa | Foco |
+|---------|-------|---------|------|
+| 2024–2025 | **Analista Sênior de Planejamento de Vendas** | Pluxee (ex-Sodexo) | Power BI (RLS + refresh automático), comissionamento, Salesforce, apresentações para diretoria |
+| 2023–2024 | **Analista de Inteligência de Vendas Pleno** | Sem Parar | Dashboards de vendas e headcount, SQL Server + Python, auditoria de comissões |
+| 2019–2022 | **Supervisor Sênior de Operações** | Teleperformance (Nubank) | Gestão de até 25 pessoas, KPIs operacionais, implantação multicanal |
+| 2011–2016 | **Supervisor Sênior de Operações Bilíngues** | Europ Assistance | Operações multiskill em português/inglês, SLA e qualidade |
 
 > A vivência em operações me deu algo que muitos analistas não têm: saber qual número importa para quem toma decisão — e como comunicar isso sem jargão técnico.
