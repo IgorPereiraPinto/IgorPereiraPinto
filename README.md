@@ -61,7 +61,7 @@ Não entrego relatório. Entrego resposta.
 | Período | Cargo | Empresa | Foco |
 |---------|-------|---------|------|
 | 2024–2025 | **Analista Sênior de Planejamento de Vendas** | Pluxee (ex-Sodexo) | Power BI (RLS + refresh automático), comissionamento, Salesforce, apresentações para diretoria |
-| 2023–2024 | **Analista de Inteligência de Vendas Pleno** | Sem Parar | Dashboards de vendas e headcount, SQL Server + Python, auditoria de comissões |
+| 2022–2024 | **Analista de Inteligência de Vendas Pleno** | Sem Parar | Dashboards de vendas e headcount, SQL Server + Python, auditoria de comissões |
 | 2019–2022 | **Supervisor Sênior de Operações** | Teleperformance (Nubank) | Gestão de até 25 pessoas, KPIs operacionais, implantação multicanal |
 | 2011–2016 | **Supervisor Sênior de Operações Bilíngues** | Europ Assistance | Operações multiskill em português/inglês, SLA e qualidade |
 
