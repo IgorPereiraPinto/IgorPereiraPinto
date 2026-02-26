@@ -1,6 +1,6 @@
 # Igor Pereira — Senior Data/BI Analyst
 
-**Transformo dados comerciais em decisões.** 10+ anos atuando na interseção entre dados e negócio — de operações (BPO) a planejamento comercial (vendas, metas, comissionamento, pricing).
+**Transformo dados comerciais em decisões.** 10+ anos atuando na interseção entre dados e negócio — de operações (BPO) a planejamento comercial (vendas, metas e comissionamento).
 
 O que me diferencia: não entrego só dashboard, entrego o diagnóstico. Sei perguntar "por que o resultado caiu?" antes de abrir qualquer ferramenta.
 
