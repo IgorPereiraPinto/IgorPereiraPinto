@@ -37,6 +37,10 @@ Pipeline completo Raw → Staging → DW → Marts com checks de qualidade e que
 4 análises avançadas que vão além do dashboard: **Coorte** (retenção por safra), **Pareto ABC** (concentração de receita), **Ad Hoc** (exploratória com correlação) e **Real vs Forecast** (decomposição de causa raiz em volume/preço). Cada uma parte de uma pergunta de negócio e entrega diagnóstico com ação.
 [Repositório](https://github.com/IgorPereiraPinto/deep-dive-analyses_v2)
 
+### 🛣️ Smart Highway Analytics — Dashboard Web (BI replicável no Power BI)
+Dashboard em **HTML + CSS + JS** para visão executiva e operacional de tráfego: KPIs, rotas, tempo de viagem, clima (demo), comparativos de período e páginas por área com **glossário detalhado** (definições, cálculo e impacto).
+[Repositório](https://github.com/IgorPereiraPinto/smart-highway-analytics) · [Dashboard (GitHub Pages)](https://igorpereirapinto.github.io/smart-highway-analytics/)
+
 ### ⚙️ Automação de Indicadores Macro — API Banco Central → Excel
 Script Python que coleta séries da API SGS do Banco Central (dólar, euro, Selic, IPCA), trata duplicidades e atualiza planilha automaticamente com agendamento diário.
 [Repositório](https://github.com/IgorPereiraPinto/bcb-api-excel-automation)
@@ -48,21 +52,3 @@ Script Python que coleta séries da API SGS do Banco Central (dólar, euro, Seli
 ## Meu Método
 
 Toda análise começa com uma pergunta de negócio, não com uma tabela de dados.
-```
-Pergunta de negócio → KPI → Dados confiáveis → Teste/segmentação → Insight → Ação
-```
-
-Não entrego relatório. Entrego resposta.
-
----
-
-## Trajetória Profissional
-
-| Período | Cargo | Empresa | Foco |
-|---------|-------|---------|------|
-| 2024–2025 | **Analista Sênior de Planejamento de Vendas** | Pluxee (ex-Sodexo) | Power BI (RLS + refresh automático), comissionamento, Salesforce, apresentações para diretoria |
-| 2022–2024 | **Analista de Inteligência de Vendas Pleno** | Sem Parar | Dashboards de vendas e headcount, SQL Server + Python, auditoria de comissões |
-| 2019–2022 | **Supervisor Sênior de Operações** | Teleperformance (Nubank) | Gestão de até 25 pessoas, KPIs operacionais, implantação multicanal |
-| 2011–2016 | **Supervisor Sênior de Operações Bilíngues** | Europ Assistance | Operações multiskill em português/inglês, SLA e qualidade |
-
-> A vivência em operações me deu algo que muitos analistas não têm: saber qual número importa para quem toma decisão — e como comunicar isso sem jargão técnico.
