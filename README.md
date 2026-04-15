@@ -48,6 +48,26 @@ categoria, SKU e fornecedor.
 
 ---
 
+### 📈 Commercial Planning Control Tower — Planejamento Comercial End-to-End (Python + SQL Server + Power BI + Power Automate)
+
+Pipeline de dados ponta a ponta para análise de performance comercial, 
+forecast e budget. Consolida 6 fontes Excel em um star schema no SQL Server, 
+com monitoramento executivo em Power BI, automações via Power Automate e 
+apresentação de resultados em HTML.
+
+**Pipeline:** Excel (vendas + dimensões + metas) → ETL Python 7 etapas com 
+dupla validação (4 testes RAW + 7 testes STAGING) → Star schema Kimball no 
+SQL Server (2 fatos + 8 dimensões, colunas PERSISTED) → Dashboard Power BI 
+(20+ medidas DAX, RLS por gerente) → 5 fluxos Power Automate → Apresentação 
+executiva HTML (14 slides self-contained).
+
+**Escala:** ~20.004 transações · 528 metas · 4 anos · 11 vendedores · 
+47 testes automatizados (pytest).
+
+[Repositório](https://github.com/IgorPereiraPinto/commercial-planning-control-tower)
+
+---
+
 ### 📊 KPIs de Vendas — Power BI (SQL Server + DAX)
 
 Dashboard com KPIs calculados em DAX a partir de dados do SQL Server, 
