@@ -32,7 +32,7 @@ Sei perguntar "por que o resultado caiu?" antes de abrir qualquer ferramenta.
 
 ---
 
-### 📈 Planejamento Comercial End-to-End (Python + SQL Server + Power BI + Power Automate)
+### 📈 Planejamento Comercial — Case End-to-End (Python + SQL Server + Power BI + Power Automate)
 
 Pipeline de dados ponta a ponta para análise de performance comercial, 
 forecast e budget. Consolida 6 fontes Excel em um star schema no SQL Server, 
@@ -70,23 +70,28 @@ categoria, SKU e fornecedor.
 
 ---
 
-### 📈 Commercial Planning Control Tower — Planejamento Comercial End-to-End (Python + SQL Server + Power BI + Power Automate)
+## 📊 Análise de Crédito
 
-Pipeline de dados ponta a ponta para análise de performance comercial, 
-forecast e budget. Consolida 6 fontes Excel em um star schema no SQL Server, 
-com monitoramento executivo em Power BI, automações via Power Automate e 
-apresentação de resultados em HTML.
+Projeto focado na construção de uma visão analítica para avaliação de crédito, combinando dados estruturados, modelagem e visualização para apoiar decisões estratégicas.
 
-**Pipeline:** Excel (vendas + dimensões + metas) → ETL Python 7 etapas com 
-dupla validação (4 testes RAW + 7 testes STAGING) → Star schema Kimball no 
-SQL Server (2 fatos + 8 dimensões, colunas PERSISTED) → Dashboard Power BI 
-(20+ medidas DAX, RLS por gerente) → 5 fluxos Power Automate → Apresentação 
-executiva HTML (14 slides self-contained).
+O objetivo é permitir a análise do comportamento de concessão de crédito, inadimplência e perfil de clientes, trazendo maior visibilidade sobre risco e oportunidades.
 
-**Escala:** ~20.004 transações · 528 metas · 4 anos · 11 vendedores · 
-47 testes automatizados (pytest).
+### 🔍 Principais análises
+- Perfil de clientes por faixa de risco
+- Volume de crédito concedido
+- Taxa de inadimplência
+- Distribuição por região e segmento
+- Identificação de padrões de risco
 
-[Repositório](https://github.com/IgorPereiraPinto/commercial-planning-control-tower)
+### ⚙️ Tecnologias utilizadas
+- Python (tratamento e preparação de dados)
+- SQL Server (armazenamento e modelagem)
+- Power BI / Web Dashboard (visualização)
+- GitHub Pages (publicação)
+
+### 🌐 Acesse o projeto
+- Dashboard: https://igorpereirapinto.github.io/analise_de_credito/
+- Repositório: https://github.com/IgorPereiraPinto/analise_de_credito
 
 ---
 
