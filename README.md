@@ -32,7 +32,7 @@ Sei perguntar "por que o resultado caiu?" antes de abrir qualquer ferramenta.
 
 ---
 
-💳 Análise de Crédito — Case End-to-End (Python + SQL Server + Power BI + Web Dashboard)
+### 💳 Análise de Crédito — Case End-to-End (Python + SQL Server + Power BI + Web Dashboard)
 Case técnico focado na construção de uma visão analítica para concessão e monitoramento de crédito, com análise de risco, inadimplência e perfil de clientes para apoio à tomada de decisão.
 
 Pipeline: Base de dados de crédito (clientes, operações e comportamento de pagamento) → ETL em Python (tratamento, padronização e validação dos dados) → Modelagem em SQL Server (estrutura analítica para análise de carteira e risco) → Dashboard Web interativo (HTML + CSS + JS) com visão executiva de concessão, inadimplência e distribuição de risco.
@@ -40,7 +40,7 @@ Pipeline: Base de dados de crédito (clientes, operações e comportamento de pa
 Análises: Volume de crédito concedido · Taxa de inadimplência · Distribuição por faixa de risco · Perfil de clientes · Concentração de exposição por segmento.
 
 Repositório  
-[Dashboard].(https://igorpereirapinto.github.io/analise_de_credito/)
+[Dashboard](https://igorpereirapinto.github.io/analise_de_credito)
 
 ---
 
@@ -79,31 +79,6 @@ atingimento · Desvio de -R$ 83,8 Mil identificado e decomposto por
 categoria, SKU e fornecedor.
 
 [Repositório](https://github.com/IgorPereiraPinto/procurement-analytics)
-
----
-
-## 📊 Análise de Crédito
-
-Projeto focado na construção de uma visão analítica para avaliação de crédito, combinando dados estruturados, modelagem e visualização para apoiar decisões estratégicas.
-
-O objetivo é permitir a análise do comportamento de concessão de crédito, inadimplência e perfil de clientes, trazendo maior visibilidade sobre risco e oportunidades.
-
-### 🔍 Principais análises
-- Perfil de clientes por faixa de risco
-- Volume de crédito concedido
-- Taxa de inadimplência
-- Distribuição por região e segmento
-- Identificação de padrões de risco
-
-### ⚙️ Tecnologias utilizadas
-- Python (tratamento e preparação de dados)
-- SQL Server (armazenamento e modelagem)
-- Power BI / Web Dashboard (visualização)
-- GitHub Pages (publicação)
-
-### 🌐 Acesse o projeto
-- Dashboard: https://igorpereirapinto.github.io/analise_de_credito/
-- Repositório: https://github.com/IgorPereiraPinto/analise_de_credito
 
 ---
 
