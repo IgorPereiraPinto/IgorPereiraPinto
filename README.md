@@ -32,7 +32,7 @@ Sei perguntar "por que o resultado caiu?" antes de abrir qualquer ferramenta.
 
 ---
 
-### 💳 Análise de Crédito — Case End-to-End (Python + SQL Server + Power BI + Web Dashboard)
+### 💳 Análise de Crédito — Case End-to-End (Python + SQL Server + Power BI + Dashboard HTML)
 Case técnico focado na construção de uma visão analítica para concessão e monitoramento de crédito, com análise de risco, inadimplência e perfil de clientes para apoio à tomada de decisão.
 
 Pipeline: Base de dados de crédito (clientes, operações e comportamento de pagamento) → ETL em Python (tratamento, padronização e validação dos dados) → Modelagem em SQL Server (estrutura analítica para análise de carteira e risco) → Dashboard Web interativo (HTML + CSS + JS) com visão executiva de concessão, inadimplência e distribuição de risco.
