@@ -40,7 +40,7 @@ Pipeline: Base de dados de crédito (clientes, operações e comportamento de pa
 Análises: Volume de crédito concedido · Taxa de inadimplência · Distribuição por faixa de risco · Perfil de clientes · Concentração de exposição por segmento.
 
 Repositório  
-Dashboard: https://igorpereirapinto.github.io/analise_de_credito/
+[Dashboard].(https://igorpereirapinto.github.io/analise_de_credito/)
 
 ---
 
