@@ -78,7 +78,7 @@ Machine Learning nativos) → Automação de ingestão e alertas no Power Automa
 atingimento · Desvio de -R$ 83,8 Mil identificado e decomposto por 
 categoria, SKU e fornecedor.
 
-[Repositório](https://github.com/IgorPereiraPinto/procurement-analytics)
+[Repositório](https://github.com/IgorPereiraPinto/case_compras)
 
 ---
 
