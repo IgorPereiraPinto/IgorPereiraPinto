@@ -60,7 +60,8 @@ executiva HTML (14 slides self-contained).
 **Escala:** ~20.004 transações · 528 metas · 4 anos · 11 vendedores · 
 47 testes automatizados (pytest).
 
-[Repositório](https://github.com/IgorPereiraPinto/commercial-planning-control-tower)
+[Repositório](https://github.com/IgorPereiraPinto/commercial-planning-control-tower) ·
+[O dashboard](https://igorpereirapinto.github.io/planejamento-comercial/)
 
 ---
 
